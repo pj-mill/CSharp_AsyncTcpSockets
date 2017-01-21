@@ -34,7 +34,6 @@ namespace Client
                 info.Arguments = $"{i}";
                 Process.Start(info);
             }
-
         }
 
         /// <summary>
@@ -95,7 +94,7 @@ namespace Client
             // Send it on a 1 second interval
             while (true)
             {
-                Thread.Sleep(1000);
+                Thread.Sleep(3000);
                 try
                 {
                     client.Socket.BeginSend(data, 0, data.Length, SocketFlags.None, new AsyncCallback(SendCallback), client);
