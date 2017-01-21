@@ -7,7 +7,7 @@ Developed with Visual Studio 2015 Community
 
 ---
 
-![Screen Shot](https://github.com/Apollo013/CSharp_AsyncTcpSockets/blob/master/ScreenShot.png)
+![Screen Shot](https://github.com/Apollo013/CSharp_AsyncTcpSockets/blob/master/ScreenShot.png?raw=true "Screen shot")
 
 ---
 
