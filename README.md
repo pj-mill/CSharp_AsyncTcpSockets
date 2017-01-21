@@ -32,6 +32,6 @@ Disconnect server and watch clients try to re-connect.
 
 Reconnect server and clients will resume sending data.
 
-Disconnect a server and watch the server catch this.
+Disconnect a client and watch the server catch this.
 
 Server keeps track of all connected clients.
