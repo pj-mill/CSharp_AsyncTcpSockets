@@ -1,7 +1,7 @@
 # CSharp_AsyncTcpSockets
 
 
-A server / multi client app on async sockets. Threading and multi process creation for clients included.
+A server / multi client solution built on async sockets. Threading and multi process creation for clients included.
 
 Developed with Visual Studio
 
